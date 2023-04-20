@@ -21,7 +21,7 @@
 <br>
 
 
-<h3 align="center">A passionate lerner from India</h3>
+<h3 align="center">A passionate learner from India</h3>
 <br>
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
