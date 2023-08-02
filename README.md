@@ -1,6 +1,7 @@
 <!-- typing svg -->
+<!-- https://git.io/typing-svg -->
 <p align="center">
-        <a href="https://git.io/typing-svg"><img
+        <a href=""><img
                 src="https://readme-typing-svg.demolab.com?            font=Fira+Code&weight=600&pause=1000&color=0D6B05&width=435&lines=Learning+Never+Ends+%7C%7C+Don't+Stop;DATA+STRUCTURES%7C%7CALGORITHMS%7C%7CJAVA+"
                 alt="Typing SVG" />
         </a>
@@ -106,9 +107,9 @@
 
 
 <!-- for github stats -->
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-chaurasiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-chaurasiya&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-chaurasiya&&theme=tokyonight" alt="rishavchanda" /></p>
+<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Rahul-chaurasiya&show_icons=true&locale=en&theme=tokyonight" alt="rishavchanda" /></p> -->
+<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=Rahul-chaurasiya&&theme=tokyonight" alt="rahul chaurasiua" /></p>
+<p><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs?username=Rahul-chaurasiya&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="rishavchanda" /></p>
 
 
 
